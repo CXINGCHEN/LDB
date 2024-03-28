@@ -1,0 +1,14 @@
+C:\Users\chenx\Desktop\LDB_Final\LightDB2\src\main\java\ed\inf\adbs\lightdb\Operator\SortOperator.java
+C:\Users\chenx\Desktop\LDB_Final\LightDB2\src\main\java\ed\inf\adbs\lightdb\Operator\DuplicateEliminationOperator.java
+C:\Users\chenx\Desktop\LDB_Final\LightDB2\src\main\java\ed\inf\adbs\lightdb\Operator\Operator.java
+C:\Users\chenx\Desktop\LDB_Final\LightDB2\src\main\java\ed\inf\adbs\lightdb\Utils\Tuple.java
+C:\Users\chenx\Desktop\LDB_Final\LightDB2\src\main\java\ed\inf\adbs\lightdb\LightDB.java
+C:\Users\chenx\Desktop\LDB_Final\LightDB2\src\main\java\ed\inf\adbs\lightdb\Planner.java
+C:\Users\chenx\Desktop\LDB_Final\LightDB2\src\main\java\ed\inf\adbs\lightdb\parser\SelectExpressionDeParser.java
+C:\Users\chenx\Desktop\LDB_Final\LightDB2\src\main\java\ed\inf\adbs\lightdb\Operator\ProjectOperator.java
+C:\Users\chenx\Desktop\LDB_Final\LightDB2\src\main\java\ed\inf\adbs\lightdb\Operator\ScanOperator.java
+C:\Users\chenx\Desktop\LDB_Final\LightDB2\src\main\java\ed\inf\adbs\lightdb\Operator\SumOperator.java
+C:\Users\chenx\Desktop\LDB_Final\LightDB2\src\main\java\ed\inf\adbs\lightdb\Operator\SelectOperator.java
+C:\Users\chenx\Desktop\LDB_Final\LightDB2\src\main\java\ed\inf\adbs\lightdb\Utils\DatabaseCatalog.java
+C:\Users\chenx\Desktop\LDB_Final\LightDB2\src\main\java\ed\inf\adbs\lightdb\parser\JoinExpressionDeParser.java
+C:\Users\chenx\Desktop\LDB_Final\LightDB2\src\main\java\ed\inf\adbs\lightdb\Operator\JoinOperator.java
